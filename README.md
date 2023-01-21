@@ -8,13 +8,16 @@
 
 ## What I know 👨‍💻
 
-<p align="center">
+<p>
+    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" height="30" width="30">
+    <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="30" width="30">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="30" width="30">
-</p>
-
-## My Github Stats
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldwinny&langs_count=10&theme=tokyonight&layout=compact" alt="Alds' Top languages">
-    <img src="https://github-readme-stats.vercel.app/api?username=aldwinny&show_icons=true&theme=onedark" alt="Alds' Github Status">
+    <img src="" height="30" width="30">
+    <img src="" height="30" width="30">
+    <img src="" height="30" width="30">
 </p>
