@@ -9,11 +9,12 @@
 ## What I know 👨‍💻
 
 <p align="center">
-    <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/flutterio/flutterio-icon.svg" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="30" width="30">
 </p>
+
 ## My Github Stats
 
 <p align="center">
-![Alds' Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldwinny&langs_count=10&theme=tokyonight&layout=compact)
-![Alds' GitHub stats](https://github-readme-stats.vercel.app/api?username=aldwinny&show_icons=true&theme=onedark)
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldwinny&langs_count=10&theme=tokyonight&layout=compact" alt="Alds' Top languages">
+    <img src="https://github-readme-stats.vercel.app/api?username=aldwinny&show_icons=true&theme=onedark" alt="Alds' Github Status">
 </p>
