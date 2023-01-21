@@ -10,5 +10,5 @@
 
 ## My Github Stats
 
-![Alds' Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldwinny&langs_count=8&layout=compact&theme=onedark)
+![Alds' Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldwinny&theme=onedark)
 ![Alds' GitHub stats](https://github-readme-stats.vercel.app/api?username=aldwinny&show_icons=true&theme=onedark)
