@@ -6,7 +6,7 @@
 - ✉ You can contact me at: busyaldwin@gmail.com; and for school-related concerns: qadlreyes@tip.edu.ph
 - 🌟I'm currently working on [Amicon anime website](https://github.com/Aldwinny/amicon-anime-rating-site) (Personal Project), [Foody](https://github.com/Aldwinny/sw-foody) (School Project), [Deliveroo](https://github.com/Aldwinny/deliveroo-clone) (Tutorial-based Project)
 
-## What I know 👨‍💻
+## 👨‍💻 Technologies that I know
 
 <p>
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="40" width="40">
@@ -25,4 +25,6 @@
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="40" width="40">
     <img src="https://upload.vectorlogo.zone/logos/reactnativedev/images/199b2976-954e-4e42-8d79-12a784e2cdf9.svg" height="40" width="40">
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" height="40" width="40">
+    <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" height="40" width="40">
+    <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" height="40" width="40">
 </p>
