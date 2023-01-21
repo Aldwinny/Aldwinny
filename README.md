@@ -6,7 +6,7 @@
 - ✉ You can contact me at: busyaldwin@gmail.com; and for school-related concerns: qadlreyes@tip.edu.ph
 - 🌟I'm currently working on Amicon anime website (Personal Project), Foody (School Project), Deliveroo (Tutorial-based Project)
 
-## Frontend Technologies I'm familiar with
+<!-- ## Frontend Technologies I'm familiar with
 
 1. HTML
 2. CSS
@@ -38,4 +38,4 @@
 
 ## Other Technologies I've worked with
 
-1. C++
+1. C++ -->
