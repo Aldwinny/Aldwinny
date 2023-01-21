@@ -4,7 +4,7 @@
 - 👀 I'm intrested in Mobile development but I also look into other technologies
 - ⛏ I'm currently learning Flutter and React Native
 - ✉ You can contact me at: busyaldwin@gmail.com; and for school-related concerns: qadlreyes@tip.edu.ph
-- 🌟I'm currently working on Amicon anime website (Personal Project), Foody (School Project), Deliveroo (Tutorial-based Project)
+- 🌟I'm currently working on [Amicon anime website](https://github.com/Aldwinny/amicon-anime-rating-site) (Personal Project), [Foody](https://github.com/Aldwinny/sw-foody) (School Project), [Deliveroo](https://github.com/Aldwinny/deliveroo-clone) (Tutorial-based Project)
 
 <!-- ## Frontend Technologies I'm familiar with
 
