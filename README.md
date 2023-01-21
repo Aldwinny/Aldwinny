@@ -28,4 +28,6 @@
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" height="40" width="40">
     <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" height="40" width="40">
     <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" height="40" width="40">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" width="40">
+    <img src="https://upload.vectorlogo.zone/logos/github/images/47bfd2d4-712f-4dee-9315-f99c611b7598.svg" height="40" width="40">
 </p>
