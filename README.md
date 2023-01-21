@@ -10,4 +10,4 @@
 
 ## My Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldwinny)](https://github.com/anuraghazra/github-readme-stats)
+[Aldwinny's GitHub stats](https://github-readme-stats.vercel.app/api?username=aldwinny&show_icons=true&theme=onedark)
