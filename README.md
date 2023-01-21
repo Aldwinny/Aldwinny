@@ -9,15 +9,15 @@
 ## What I know 👨‍💻
 
 <p>
-    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="30" width="30">
-    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" height="30" width="30">
-    <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" height="30" width="30">
-    <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" height="30" width="30">
-    <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg" height="30" width="30">
-    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" height="30" width="30">
-    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="30" width="30">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="30" width="30">
-    <img src="" height="30" width="30">
-    <img src="" height="30" width="30">
-    <img src="" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="35" width="35">
+    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" height="35" width="35">
+    <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" height="35" width="35">
+    <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" height="35" width="35">
+    <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg" height="35" width="35">
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" height="35" width="35">
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="35" width="35">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="35" width="35">
+    <img src="" height="35" width="35">
+    <img src="" height="35" width="35">
+    <img src="" height="35" width="35">
 </p>
