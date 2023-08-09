@@ -6,7 +6,7 @@
 - ✉ You can contact me at: aldwinny.dev@gmail.com; and for school-related messages: qadlreyes@tip.edu.ph
 - 🌟I'm currently working on [Amicon anime website](https://github.com/Aldwinny/amicon-anime-rating-site) (Personal Project), [Foody](https://github.com/Aldwinny/sw-foody) (School Project), [Deliveroo](https://github.com/Aldwinny/deliveroo-clone) (Tutorial-based Project)
 
-## 👨‍💻 Technologies that I know
+## 👨‍💻 Technologies I know
 
 <p>
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="40" width="40">
