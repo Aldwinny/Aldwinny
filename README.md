@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Aldwin Dennis Reyes
 
-- 📚 3rd year BS Information Technology Student
+- 📚 4th year BS Information Technology Student
 - 👀 I'm intrested in Mobile development but I also look into other technologies
 - ⛏ I'm currently learning Flutter and React Native
 - ✉ You can contact me at: aldwinny.dev@gmail.com; and for school-related messages: qadlreyes@tip.edu.ph
