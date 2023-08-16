@@ -1,10 +1,10 @@
 # 👋 Hello, I'm Aldwin Dennis Reyes
 
 - 📚 4th year BS Information Technology Student
-- 👀 I'm intrested in Mobile development but I also look into other technologies
-- ⛏ I'm currently learning Flutter and React Native
+- 👀 I'm mainly intrested in Mobile development
+- ⛏ I'm currently learning Laravel
 - ✉ You can contact me at: aldwinny.dev@gmail.com; and for school-related messages: qadlreyes@tip.edu.ph
-- 🌟I'm currently working on [Amicon anime website](https://github.com/Aldwinny/amicon-anime-rating-site) (Personal Project), [Foody](https://github.com/Aldwinny/sw-foody) (School Project), [Deliveroo](https://github.com/Aldwinny/deliveroo-clone) (Tutorial-based Project)
+- 🌟I'm currently working on [Amicon anime website](https://github.com/Aldwinny/amicon-anime-rating-site) (Personal Project), and QueryLearn (Capstone Project).
 
 ## 👨‍💻 Technologies I know
 
