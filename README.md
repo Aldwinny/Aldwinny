@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Aldwin Dennis L. Reyes
+# 👋 Hello, I'm Aldwin Dennis Reyes
 
 - 📚 4th year BS Information Technology Student
 - 👀 I'm mainly intrested in Mobile development
