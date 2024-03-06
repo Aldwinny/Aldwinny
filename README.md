@@ -2,7 +2,7 @@
 
 - 📚 4th year BS Information Technology Student
 - 👀 I'm mainly intrested in Mobile development
-- ⛏ I'm currently learning Laravel and ThreeJS
+- ⛏ I'm currently learning Springboot and GraphQL
 - ✉ You can contact me at: aldwinny.dev@gmail.com; and for school-related messages: qadlreyes@tip.edu.ph
 - 🌟I'm currently working on [Amicon anime website](https://github.com/Aldwinny/amicon-anime-rating-site) (Personal Project), and QueryLearn (Capstone Project).
 
