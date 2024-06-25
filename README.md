@@ -1,10 +1,10 @@
 # 👋 Hello, I'm Aldwin Dennis L Reyes
 
-- 📚 4th year BS Information Technology Student
-- 👀 I'm mainly intrested in Mobile development
-- ⛏ I'm currently learning Springboot and GraphQL
+- 📚 4th year BS Information Technology Student who will graduate this September
+- 👀 I'm mainly intrested in Mobile development but I'm flexible enough to work on both Frontend & Backend
+- ⛏ I'm currently learning Svelte and Springboot
 - ✉ You can contact me at: aldwinny.dev@gmail.com; and for school-related messages: qadlreyes@tip.edu.ph
-- 🌟I'm currently working on [Amicon anime website](https://github.com/Aldwinny/amicon-anime-rating-site) (Personal Project), and QueryLearn (Capstone Project).
+- 🌟I'm currently working on [Amicon anime website](https://github.com/Aldwinny/amicon-anime-rating-site) and TechyCat (Personal Projects).
 
 ## 👨‍💻 Technologies I know
 
@@ -30,4 +30,5 @@
     <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" height="40" width="40">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" width="40">
     <img src="https://upload.vectorlogo.zone/logos/github/images/c53f393e-9094-4b00-9f76-e489cabbf2a9.svg" height="40" width="40">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="40" width="40">
 </p>
