@@ -4,9 +4,9 @@
 - 👀 I'm mainly intrested in Mobile development but I'm flexible enough to work on both Frontend & Backend
 - ⛏ I'm currently learning Svelte and Springboot
 - ✉ You can contact me at: aldwinny.dev@gmail.com; and for school-related messages: qadlreyes@tip.edu.ph
-- 🌟I'm currently working on [Amicon anime website](https://github.com/Aldwinny/amicon-anime-rating-site) and TechyCat (Personal Projects).
+- 🌟I'm currently working as an Associate Back-End Developer!
 
-## 👨‍💻 Technologies I know
+## 👨‍💻 Technologies I know (Dev)
 
 <p>
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="40" width="40">
@@ -31,4 +31,15 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" width="40">
     <img src="https://upload.vectorlogo.zone/logos/github/images/c53f393e-9094-4b00-9f76-e489cabbf2a9.svg" height="40" width="40">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="40" width="40">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" width="40">
+</p>
+<br>
+
+## 🔨 Technologies I know (DevOps)
+
+<p>
+    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" height="40" width="40">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="40" width="40">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="40" width="40">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" height="40" width="40">
 </p>
