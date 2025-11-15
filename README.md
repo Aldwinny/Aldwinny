@@ -7,7 +7,6 @@
 - 🌟 I'm currently inactive in Github right now, but I plan to work on my side projects every once in a while.
 
 ## 👨‍💻 Technologies I know (Dev)
-
 <p>
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" height="40" width="40">
     <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" height="40" width="40">
@@ -16,8 +15,6 @@
     <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" height="40" width="40">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" width="40">
     <img src="https://upload.vectorlogo.zone/logos/getbootstrap/images/987f8f6c-263a-47b1-a85d-853cfca215d9.svg" height="40" width="40">
-</p>
-<p>
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="40" width="40">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" height="40" width="40">
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="40" width="40">
@@ -25,16 +22,12 @@
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" height="40" width="40">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" width="40">
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" height="40" width="40">
-</p>
-<p>
     <img src="https://upload.vectorlogo.zone/logos/reactnativedev/images/199b2976-954e-4e42-8d79-12a784e2cdf9.svg" height="40" width="40">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="40" width="40">
     <img src="https://www.vectorlogo.zone/logos/ionicframework/ionicframework-icon.svg" height="40" width="40">
 </p>
-<br>
 
 ## ☁️ Technologies I know (DevOps and Cloud)
-
 <p>
     <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" height="40" width="40">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="40" width="40">
@@ -42,10 +35,8 @@
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" height="40" width="40">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="40" width="40">
 </p>
-<br>
 
 ## 🔨 Technologies I know (Tools, SCM etc)
-
 <p>
     <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" height="40" width="40">
     <img src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg" height="40" width="40">
@@ -57,8 +48,6 @@
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/intellij-idea.svg" height="40" width="40">
     <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg" height="40" width="40">
 </p>
-<br>
-
 
 ## 📔 Technologies I look forward to learning
 <p>
