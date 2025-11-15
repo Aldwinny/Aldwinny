@@ -43,10 +43,12 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" width="40">
     <img src="https://upload.vectorlogo.zone/logos/github/images/c53f393e-9094-4b00-9f76-e489cabbf2a9.svg" height="40" width="40">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" width="40">
+    <img src="https://raw.githubusercontent.com/usebruno/bruno/refs/heads/main/assets/images/logo-transparent.png" height="40" width="40">
     <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" height="40" width="40">
     <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" height="40" width="40">
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/intellij-idea.svg" height="40" width="40">
     <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg" height="40" width="40">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/master/icons/portswigger.svg" height="40" width="40">
 </p>
 
 ## 📔 Technologies I look forward to learning
