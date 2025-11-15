@@ -56,5 +56,5 @@
     <img src="https://raw.githubusercontent.com/bestofjs/bestofjs/refs/heads/master/apps/web/public/logos/n8n.svg" height="40" width="40">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="40" width="40">
     <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" height="40" width="40">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="40" width="40">
+    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" height="40" width="40">
 </p>
