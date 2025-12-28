@@ -2,7 +2,7 @@
 
 - 📚 Graduate in Bachelor of Science in Information Technology, Major in 3D Animation and Mobile Application Development
 - 👀 I'm currently working as a Backend Software Engineer but I am flexible enough to work as Fullstack with knowledge in Frontend, Mobile and DevOps.
-- ⛏ I'm currently aiming for an N5 Japanese Certification as well as AZ-204 Azure Certification. I look forward to also learning Kafka, Google Cloud Platform, and N8N 
+- ⛏ I'm currently aiming for an N5 Japanese Certification as well as AZ-204 Azure Certification. I look forward to also learning Kafka, Google Cloud Platform, and Kubernetes 
 - ✉ You can contact me at: aldwinny.dev@gmail.com
 - 🌟 I'm currently inactive in Github right now, but I plan to work on my side projects every once in a while.
 
@@ -49,13 +49,13 @@
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/intellij-idea.svg" height="40" width="40">
     <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg" height="40" width="40">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/refs/heads/master/icons/portswigger.svg" height="40" width="40">
+    <img src="https://raw.githubusercontent.com/bestofjs/bestofjs/refs/heads/master/apps/web/public/logos/n8n.svg" height="40" width="40">
 </p>
 
 ## 📔 Technologies I look forward to learning
 <p>
     <img src="https://www.vectorlogo.zone/logos/sveltetechnology/sveltetechnology-icon.svg" height="40" width="40">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="40" width="40">
-    <img src="https://raw.githubusercontent.com/bestofjs/bestofjs/refs/heads/master/apps/web/public/logos/n8n.svg" height="40" width="40">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="40" width="40">
     <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" height="40" width="40">
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" height="40" width="40">
